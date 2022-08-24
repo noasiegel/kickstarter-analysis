@@ -5,14 +5,16 @@
 
 I performed my analysis here by creating a Pivot Table. The Pivot Table allows me to organize the data to begin to storytell from a date perspective. By filtering by Parent Category, I was able to create the table only with that data included, which is what is relavant to Louise. By including outcomes in both columns and values, I was able to see if campaigns were successful, failed or canceled against months. While there were no formulas used to create this Pivot Table, I was able to create a timeplot that visualizes the data in the table. 
 
-/Users/nsiegel/Desktop/bootcamp/Resources/Theater_Outcomes_vs_Launch.png
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/110838228/186536604-3b844758-12fc-4ea7-8c07-06dc202ebb10.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
 I performed my analysis here by using COUNTIFS formulas, as well as creating a timeplot. I also used AVERAGE formula, and some simple division to find percentages. The COUNTIFS formulas are quite intricate, incorporating two separate columns and two sets of greater than/equal two conditions. 
 
-/Users/nsiegel/Desktop/bootcamp/Resources/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/110838228/186536615-55812927-fb3a-4c36-98eb-439e5f805418.png)
+
 
 
 ### Challenges and Difficulties Encountered
