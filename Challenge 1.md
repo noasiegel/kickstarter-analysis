@@ -1,3 +1,9 @@
+## Overview of Project
+
+### Purpose
+
+The purpose of this project was twofold: one, to become more familiar with data in Excel. Two, to help Louise understand the ecosystem of crowdfunding across multiple markets, categories and funding goals. We wanted to be able to point to trends and insights that would help Louise understand what she needs to do to ensure her campaign is a success. 
+
 
 ## Analysis and Challenges
 
